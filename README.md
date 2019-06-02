@@ -1,4 +1,4 @@
-# docker-static
+# Docker-static
 
 This is to create a container from a static html website.
 
@@ -15,7 +15,7 @@ docker build -t static-content .
 
 
 ```
-## Excell Dashboard preview 
+## Instructions preview 
 ![Instructions](/images/instructions.PNG "Instructions preview")
 
 ```
