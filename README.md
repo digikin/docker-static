@@ -7,5 +7,11 @@ The nginx conf is to serve files without showing the actual file. ex: localhost/
 # Directions
 
 ```
+git clone git@github.com:digikin/docker-static.git
 
+cd docker-static
+
+docker build -t static-content .
 ```
+
+
